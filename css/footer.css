@@ -1,0 +1,32 @@
+footer {
+  margin-top: 20px;
+  gap: 5px;
+}
+
+.keyBoard-row {
+  margin-top: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 5px;
+}
+
+.keyBoard-block {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 3px solid #d3d6da;
+  width: 60px;
+  height: 60px;
+  background-color: #e2e2e2;
+  font-weight: bold;
+}
+
+#enter {
+  width: 130px;
+}
+
+.exit-img {
+  width: 30px;
+  height: 30px;
+}
